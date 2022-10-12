@@ -1,0 +1,11 @@
+E:\Project\project_1\project_1\bin\Debug\project_1.exe.config
+E:\Project\project_1\project_1\obj\Debug\project_1.exe
+E:\Project\project_1\project_1\obj\Debug\project_1.xml
+E:\Project\project_1\project_1\obj\Debug\project_1.pdb
+E:\Project\project_1\project_1\bin\Debug\telephone1.accdb
+E:\Project\project_1\project_1\bin\Debug\project_1.exe
+E:\Project\project_1\project_1\bin\Debug\project_1.pdb
+E:\Project\project_1\project_1\bin\Debug\project_1.xml
+E:\Project\project_1\project_1\obj\Debug\WindowsApplication1.users.resources
+E:\Project\project_1\project_1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Project\project_1\project_1\obj\Debug\project_1.vbproj.GenerateResource.Cache
